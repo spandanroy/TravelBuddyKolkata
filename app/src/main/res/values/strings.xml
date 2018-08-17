@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">Travel Buddy Kolkata</string>
+
+    <string name="category_attractions">Attractions</string>
+
+    <string name="category_nature">Nature</string>
+
+    <string name="category_religious">Religious</string>
+
+    <string name="category_malls">Malls</string>
+
+    <string name="category_hotels">Hotels</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vic_mem_hall">Victoria Memorial Hall</string>
+    <string name="hwh_brdg">Howrah Bridge</string>
+    <string name="belur_math">Belur Math</string>
+    <string name="jorsnko_thkr_bri">Jorasanko Thakur Bari</string>
+    <string name="shbhabzr_rjbri">Shobhabazar Rajbari</string>
+    <string name="mother_house">Mother House</string>
+    <string name="fort_wllm">Fort William</string>
+    <string name="the_ind_msm">The Indian Museum</string>
+    <string name="ind_cffe_hse">Indian Coffee House</string>
+    <string name="mrbl_plce">Marble Palace</string>
+    <string name="edn_grdns">Eden Gardens</string>
+    <string name="brla_plntrm">Birla Planetarium</string>
+    <string name="sci_city">Science City</string>
+    <string name="brla_tech_msm">Birla Technological Museum</string>
+    <string name="shd_mnr">Shahid Minar</string>
+    <string name="dakhsnr_kali_tmpl">Dakshineshwar Kali Temple</string>
+    <string name="relg_addr1">Dakshineswar, Kolkata</string>
+    <string name="brla_mndr">Birla Mandir</string>
+    <string name="kalighat_tmpl">Kalighat Temple</string>
+    <string name="durga_mndr">23 Pally Durga Mandir</string>
+    <string name="swmi_nryn_tmpl">Swaminarayan Temple</string>
+    <string name="iskcon_tmpl">ISKCON Temple</string>
+    <string name="nakhoda_msq">Nakhoda Mosque</string>
+    <string name="tipu_sltn_msjd">Tipu Sultan Masjid</string>
+    <string name="st_paul_cthedrl">St. Paul\'s Cathedral</string>
+    <string name="st_jhn_chrch">St. John\'s Church</string>
+    <string name="prsnth_jn_tmpl">Pareshnath Jain Temple</string>
+    <string name="agni_mndr">Agni Mandir</string>
+    <string name="grudwra_bari_sngt">Gurdwara Bari Sangat</string>
+    <string name="grudwara_snt_ktya">Gurdwara Sant Kutiya</string>
+    <string name="mgn_dvd_syngg">Magen David Synagogue</string>
+    <string name="relg_addr2">Old Ballygunge Road, Ashutosh Chowdary Avenue, Kolkata</string>
+    <string name="relg_addr3">Anami Sangha, Kalighat, Kolkata</string>
+    <string name="relg_addr4">Jatin Das Park, Patuapara, Bhowanipore, Kolkata</string>
+    <string name="relg_addr5">Jadubabur Bazar, Bhowanipore, Kolkata</string>
+    <string name="relg_addr6">Minto Park, Near Birla High School, Kolkata</string>
+    <string name="relg_addr7">Rabindra Sarani, Bow Barracks, Kolkata</string>
+    <string name="relg_addr8">Lenin Sarani, Kolkata</string>
+    <string name="relg_addr9">Maidan, Kolkata</string>
+    <string name="regl_addr10">Lal Dighi, BBD Bagh, Kolkata</string>
+    <string name="relg_addr11">Jiban Krishna Ghosh Rd, Tala, Kolkata</string>
+    <string name="relg_addr12">Chandni Chawk, Bowbazar, Kolkata</string>
+    <string name="relg_addr13">Mahatma Gandhi Road, Kolkata</string>
+    <string name="relg_addr14">Gokhel Rd, Bhowanipore, Kolkata</string>
+    <string name="relg_addr15">China Bazar, Barabazar Market, Kolkata</string>
+    <string name="eco_trsm_prk">Eco Tourism Park</string>
+    <string name="prncp_ght">Princep Ghat</string>
+    <string name="klkta_mdn">Kolkata Maidan</string>
+    <string name="cntrl_prk">Central Park</string>
+    <string name="mllenm_prk">Millennium Park</string>
+    <string name="rbndr_srvr">Rabindra Sarovar</string>
+    <string name="alpr_zoo">Alipore Zoo</string>
+    <string name="shbpr_btncl_grdn">Shibpur Botanical Gardens</string>
+    <string name="nlbn_btng_cmplx">Nalban Boating Complex</string>
+    <string name="alpr_hrtcltre_grdns">Alipore Horticultural Gardens</string>
+    <string name="eco_aqtc_hb">Eco Aquatic Hub</string>
+    <string name="ncco_prk">Nicco Park (Amusement Park)</string>
+    <string name="aqtca">Aquatica (Amusement Park)</string>
+    <string name="ntr_prk">Nature Park</string>
+    <string name="chntmni_kr_brd_snctry">Chintamani Kar Bird Sanctuary</string>
+    <string name="ntr_addr1">Action Area II, Newtown, Kolkata</string>
+    <string name="ntr_addr2">Fort William, Hastings, Kolkata</string>
+    <string name="ntr_addr3">AJC Bose Road, Kolkata</string>
+    <string name="ntr_addr4">Sector III, Salt Lake City, Kolkata</string>
+    <string name="ntr_addr5">Bara Bazar, BBD Bagh, Kolkata</string>
+    <string name="ntr_addr6">Dhakuria, Rabindra Sarobar, Kolkata</string>
+    <string name="ntr_addr7">Alipore, Kolkata</string>
+    <string name="ntr_addr8">Shibpur, Howrah</string>
+    <string name="ntr_addr9">Nalban Bheri, Bidhannagar, Kolkata</string>
+    <string name="ntr_addr10">Alipore, Kolkata</string>
+    <string name="ntr_addr11">Eastern Metropolitan Bypass, Tangra, Kolkata</string>
+    <string name="ntr_addr12">Sector IV, Salt Lake City, Kolkata</string>
+    <string name="ntr_addr13">Hathgachia, Near Rajarhat Township, Kolkata</string>
+    <string name="ntr_addr14">Taratala Rd, Paharpur, Kolkata</string>
+    <string name="ntr_addr15">Ramchandrapur, Narendrapur, Kolkata</string>
+    <string name="sth_cty_mll">South City Mall</string>
+    <string name="qst_mll">Quest Mall</string>
+    <string name="cty_cntr_1">City Centre I</string>
+    <string name="cty_cntr_2">City Centre II</string>
+    <string name="acrpls_mll">Acropolis Mall</string>
+    <string name="mni_sqr">Mani Square</string>
+    <string name="axs_mll">Axis Mall</string>
+    <string name="mtrpls_mll">Metropolis Mall</string>
+    <string name="frm_crtyd">Forum Courtyard</string>
+    <string name="dlf_gllria">DLF Galleria</string>
+    <string name="e_mll">E-Mall</string>
+    <string name="lke_mll">Lake Mall</string>
+    <string name="mrln_hmlnd">Merlin Homeland</string>
+    <string name="hmtwn_rjrht">HomeTown Rajarhat</string>
+    <string name="pvr_dmnd_plza">PVR Diamond Plaza</string>
+    <string name="mall_addr1">Prince Anwar Shah Road, Kolkata</string>
+    <string name="mall_addr2">Beck Bagan Row, Kolkata</string>
+    <string name="mall_addr3">Sector 1, Salt Lake City, Kolkata</string>
+    <string name="mall_addr4">Action Area IID, Newtown, Kolkata</string>
+    <string name="mall_addr5">Sector 1, East Kolkata Township, Kolkata</string>
+    <string name="mall_addr6">Maniktala Main Rd, Phool Bagan, Kolkata</string>
+    <string name="mall_addr7">Action Area I, Newtown, Kolkata</string>
+    <string name="mall_addr8">Chak Garia, Santoshpur, Kolkata</string>
+    <string name="mall_addr9">Sreepally, Bhowanipore, Kolkata</string>
+    <string name="mall_addr10">Action Area I, Newtown, Kolkata</string>
+    <string name="mall_addr11">Chandni Chawk, Kolkata</string>
+    <string name="mall_addr12">Rash Behari Avenue, Kalighat, Kolkata</string>
+    <string name="mall_addr13">Ashutosh Mukherjee Rd, Bhowanipore, Kolkata</string>
+    <string name="mall_addr14">Newtown, Kolkata</string>
+    <string name="mall_addr15">Diamond City Mall, Jessore Road, Kolkata</string>
+    <string name="jw_mrriot">JW Marriott Kolkata</string>
+    <string name="tj_bngl">Taj Bengal</string>
+    <string name="itc_snr">ITC Sonar</string>
+    <string name="hyt_rgncy">Hyatt Regency</string>
+    <string name="the_lalit">The Lalit Great Eastern</string>
+    <string name="nvtl_klkta">Novotel Kolkata</string>
+    <string name="the_gtewy">The Gateway</string>
+    <string name="the_obroi_grnd">The Oberoi Grand</string>
+    <string name="swsotel">Swissotel Kolkata</string>
+    <string name="the_prk_klkta">The Park Kolkata</string>
+    <string name="htl_hndsthn">Hotel Hindusthan International</string>
+    <string name="prlss_inn">The Peerless Inn</string>
+    <string name="vdic_vllg_rsrts">Vedic Village Resorts</string>
+    <string name="htl_prd_plza">Hotel Pride Plaza</string>
+    <string name="htl_snnt">Hotel Sonnet</string>
+    <string name="attr_addr1">Queens Way, Kolkata</string>
+    <string name="attr_addr2">Howrah</string>
+    <string name="attr_addr3">Belur, Howrah</string>
+    <string name="attr_addr4">Rabindra Sarani, Singhi Bagan, Jorasanko, Kolkata</string>
+    <string name="attr_addr5">Raja Naba Krishna St, Hati Bagan, Shyam Bazar, Kolkata</string>
+    <string name="attr_addr6">Acharya Jagadish Chandra Bose Rd, Ripon Street, Kolkata</string>
+    <string name="attr_addr7">Fort William, Hastings, Kolkata</string>
+    <string name="attr_addr8">Dharmatala, Taltala, Kolkata</string>
+    <string name="attr_addr9">Bankim Chatterjee Street, College Square, Kolkata</string>
+    <string name="attr_addr10">Raja Katra, Jorasanko, Kolkata</string>
+    <string name="attr_addr11">BBD Bagh, Kolkata</string>
+    <string name="attr_addr12">Jawaharlal Nehru Road, Kolkata</string>
+    <string name="attr_addr13">Mirania Gardens, Topsia, Kolkata</string>
+    <string name="attr_addr14">Beck Bagan, Ballygunge, Kolkata</string>
+    <string name="attr_addr15">Dharmtalla bus stop, Dufferin Road, Kolkata</string>
+    <string name="htl_addr1">J.B.S Haldane Avenue, Tangra, Kolkata</string>
+    <string name="htl_addr2">Belvedere Road, Alipore, Kolkata</string>
+    <string name="htl_addr3">JBS Haldane Avenue, Tangra, Kolkata</string>
+    <string name="htl_addr4">Sector III, Salt Lake City, Kolkata</string>
+    <string name="htl_addr5">Dalhousie Square, Old Court House St, Kolkata</string>
+    <string name="htl_addr6">CF Block(Newtown), Action Area 1C, Newtown, Kolkata</string>
+    <string name="htl_addr7">Rajdanga Main Rd, Sector G, East Kolkata Twp, Kolkata</string>
+    <string name="htl_addr8">New Market Area, Dharmatala, Taltala, Kolkata</string>
+    <string name="htl_addr9">Biswa Bangla Sarani, Newtown, Kolkata</string>
+    <string name="htl_addr10">Park Street, Kolkata</string>
+    <string name="htl_addr11">Sreepally, Bhowanipore, Kolkata</string>
+    <string name="htl_addr12">Dharmatala, Taltala, Kolkata</string>
+    <string name="htl_addr13">Rajarhat, Kolkata</string>
+    <string name="htl_addr14">Action Area I, 1-B, Rajarhat, Kolkata</string>
+    <string name="htl_addr15">Sector-1, Salt Lake, Kolkata</string>
+    <string name="relg_loc1">geo:0,0?q=Dakshineshwar+Kali+Temple</string>
+    <string name="relg_loc2">geo:0,0?q=Birla+Mandir+Kolkata</string>
+    <string name="relg_loc3">geo:0,0?q=Kalighat+Temple+Kolkata</string>
+    <string name="relg_loc4">geo:0,0?q=23+Pally+Durga+Mandir</string>
+    <string name="relg_loc5">geo:0,0?q=Swaminarayan+Temple+Kolkata</string>
+    <string name="relg_loc6">geo:0,0?q=ISCKON+Temple+Kolkata</string>
+    <string name="relg_loc7">geo:0,0?q=Nakhoda+Mosque+Kolkata</string>
+    <string name="relg_loc8">geo:0,0?q=Tipu+Sultan+Masjid+Kolkata</string>
+    <string name="relg_loc9">geo:0,0?q=St.+Paul\'s+Cathedral+Kolkata</string>
+    <string name="relg_loc10">geo:0,0?q=St.+John\'s+Church+Kolkata</string>
+    <string name="relg_loc11">geo:0,0?q=Pareshnath+Jain+Temple+Kolkata</string>
+    <string name="relg_loc12">geo:0,0?q=Agni+Mandir+Kolkata</string>
+    <string name="relg_loc13">geo:0,0?q=Gurdwara+Bari+Sangat+Kolkata</string>
+    <string name="relg_loc14">geo:0,0?q=Gurdwara+Sant+Kutiya+Kolkata</string>
+    <string name="relg_loc15">geo:0,0?q=Magen+David+Synagogue+Kolkata</string>
+    <string name="ntr_loc1">geo:0,0?q=Eco+Park+Kolkata</string>
+    <string name="ntr_loc2">geo:0,0?q=Princep+Ghat</string>
+    <string name="ntr_loc3">geo:0,0?q=Kolkata+Maidan</string>
+    <string name="ntr_loc4">geo:0,0?q=Central+Park+Kolkata</string>
+    <string name="ntr_loc5">geo:0,0?q=Millennium+Park+Kolkata</string>
+    <string name="ntr_loc6">geo:0,0?q=Rabindra+Sarovar</string>
+    <string name="ntr_loc7">geo:0,0?q=Alipore+Zoo</string>
+    <string name="ntr_loc8">geo:0,0?q=Shibpur+Botanical+Gardens</string>
+    <string name="ntr_loc9">geo:0,0?q=Nalban+Boating+Complex</string>
+    <string name="ntr_loc10">geo:0,0?q=Alipore+Horticultural+Gardens</string>
+    <string name="ntr_loc11">geo:0,0?q=Eco+Aquatic+Hub+Kolkata</string>
+    <string name="ntr_loc12">geo:0,0?q=Nicco+Park+Kolkata</string>
+    <string name="ntr_loc13">geo:0,0?q=Aquatica+Kolkata</string>
+    <string name="ntr_loc14">geo:0,0?q=Nature+Park+Kolkata</string>
+    <string name="ntr_loc15">geo:0,0?q=Chintamani+Kar+Bird+Sanctuary+Kolkata</string>
+    <string name="mall_loc1">geo:0,0?q=South+City+Mall</string>
+    <string name="mall_loc2">geo:0,0?q=Quest+Mall</string>
+    <string name="mall_loc3">geo:0,0?q=City+Centre+Salt+Lake</string>
+    <string name="mall_loc4">geo:0,0?q=City+Centre+Rajarhat</string>
+    <string name="mall_loc5">geo:0,0?q=Acropolis+Mall</string>
+    <string name="mall_loc6">geo:0,0?q=Mani+Square</string>
+    <string name="mall_loc7">geo:0,0?q=Axis+Mall</string>
+    <string name="mall_loc8">geo:0,0?q=Metropolis+Mall+Kolkata</string>
+    <string name="mall_loc9">geo:0,0?q=Forum+Courtyard+Kolkata</string>
+    <string name="mall_loc10">geo:0,0?q=DLF+Galleria+Kolkata</string>
+    <string name="mall_loc11">geo:0,0?q=E+Mall+Kolkata</string>
+    <string name="mall_loc12">geo:0,0?q=Lake+Mall+Kolkata</string>
+    <string name="mall_loc13">geo:0,0?q=Merlin+Homeland+Kolkata</string>
+    <string name="mall_loc14">geo:0,0?q=HomeTown+Rajarhat</string>
+    <string name="mall_loc15">geo:0,0?q=PVR+Diamond+Plaza</string>
+    <string name="htl_loc1">geo:0,0?q=JW+Marriott+Kolkata</string>
+    <string name="htl_loc2">geo:0,0?q=Taj+Bengal</string>
+    <string name="htl_loc3">geo:0,0?q=ITC+Sonar</string>
+    <string name="htl_loc4">geo:0,0?q=Hyatt+Regency</string>
+    <string name="htl_loc5">geo:0,0?q=The+Lalit+Great+Eastern+Kolkata</string>
+    <string name="htl_loc6">geo:0,0?q=Novotel+Kolkata</string>
+    <string name="htl_loc7">geo:0,0?q=The+Gateway+Kolkata</string>
+    <string name="htl_loc8">geo:0,0?q=The+Oberoi+Grand+Kolkata</string>
+    <string name="htl_loc9">geo:0,0?q=Swissotel+Kolkata</string>
+    <string name="htl_loc10">geo:0,0?q=The+Park+Kolkata</string>
+    <string name="htl_loc11">geo:0,0?q=Hotel+Hindusthan+International</string>
+    <string name="htl_loc12">geo:0,0?q=The+Peerless+Inn</string>
+    <string name="htl_loc13">geo:0,0?q=Vedic+Village+Resorts+Kolkata</string>
+    <string name="htl_loc14">geo:0,0?q=Hotel+Pride+Plaza+Kolkata</string>
+    <string name="htl_loc15">geo:0,0?q=Hotel+Sonnet+Kolkata</string>
+    <string name="attr_loc1">geo:0,0?q=Victoria+Memorial+Hall</string>
+    <string name="attr_loc2">geo:0,0?q=Howrah+Bridge</string>
+    <string name="attr_loc3">geo:0,0?q=Belur+Math</string>
+    <string name="attr_loc4">geo:0,0?q=Jorasanko+Thakur+Bari</string>
+    <string name="attr_loc5">geo:0,0?q=Shobhabazar+Rajbari</string>
+    <string name="attr_loc6">geo:0,0?q=Mother+House+Kolkata</string>
+    <string name="attr_loc7">geo:0,0?q=Fort+William</string>
+    <string name="attr_loc8">geo:0,0?q=Indian+Museum+Kolkata</string>
+    <string name="attr_loc9">geo:0,0?q=Indian+Coffee+House+Kolkata</string>
+    <string name="attr_loc10">geo:0,0?q=Marble+Palace+Kolkata</string>
+    <string name="attr_loc11">geo:0,0?q=Eden+Gardens</string>
+    <string name="attr_loc12">geo:0,0?q=Birla+Planetarium+Kolkata</string>
+    <string name="attr_loc13">geo:0,0?q=Science+City+Kolkata</string>
+    <string name="attr_loc14">geo:0,0?q=BITM+Kolkata</string>
+    <string name="attr_loc15">geo:0,0?q=Shahid+Minar+Kolkata</string>
+</resources>
